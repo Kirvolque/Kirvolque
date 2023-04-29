@@ -16,6 +16,12 @@ I am currently working on my pet project, [Rule Evaluator](https://github.com/Ki
 ### Mentoring Experience
 In addition to my development work, I also have experience mentoring and leading projects. I have supervised multiple student projects, including [Variant Caller](https://github.com/Kirvolque/variant_caller) and [Variant Annotator](https://github.com/Bioinformatics-internship-EPAM/variant-annotator), providing guidance and support as the students implemented their projects.
 
+### Open Source Contributions
+I have also contributed to open source projects, including the [htsjdk](https://github.com/samtools/htsjdk) library.
+
+- [PR #980](https://github.com/samtools/htsjdk/pull/980)
+- [PR #979](https://github.com/samtools/htsjdk/pull/979)
+
 
 ### Let's Connect
 
