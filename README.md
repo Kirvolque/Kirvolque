@@ -8,6 +8,9 @@ Some of the technologies and tools that I use include:
 `Scala`
 `Cats`
 `ZIO`
+`Java`
+`Python`
+`Spring Boot`
 
 ### Current Project
 
