@@ -17,7 +17,7 @@ I am currently working on my pet project, [Rule Evaluator](https://github.com/Ki
 In addition to my development work, I also have experience mentoring and leading projects. I have supervised multiple student projects, including [Variant Caller](https://github.com/Kirvolque/variant_caller) and [Variant Annotator](https://github.com/Bioinformatics-internship-EPAM/variant-annotator), providing guidance and support as the students implemented their projects.
 
 ### Open Source Contributions
-I have also contributed to open source projects, including the [htsjdk](https://github.com/samtools/htsjdk) library.
+I have also contributed to open source projects, including the [HTSJDK](https://github.com/samtools/htsjdk) library developed by [The Broad Institute of MIT and Harvard](https://www.broadinstitute.org/). HTSJDK is a unified Java library for accessing common file formats, such as SAM and VCF, used for high-throughput sequencing data, with a number of useful utilities for manipulating HTS data. I have contributed to htsjdk by merging two pull requests:
 
 - [PR #980](https://github.com/samtools/htsjdk/pull/980)
 - [PR #979](https://github.com/samtools/htsjdk/pull/979)
