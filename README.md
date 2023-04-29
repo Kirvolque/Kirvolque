@@ -14,7 +14,7 @@ Some of the technologies and tools that I use include:
 I am currently working on my pet project, [Rule Evaluator](https://github.com/Kirvolque/rule-evaluator), which is a Scala 3 library for evaluating boolean expressions using a custom syntax.
 
 ### Mentoring Experience
-In addition to my development work, I also have experience mentoring and leading projects. I served as a tech lead and mentor for a group of students from Saint Petersburg Polytechnic University who were working on the [Variant Caller](https://github.com/Kirvolque/variant_caller) project. While I did not write the code for this project myself, I supervised the students and provided guidance and support as they implemented the project.
+In addition to my development work, I also have experience mentoring and leading projects. I have supervised multiple student projects, including [Variant Caller](https://github.com/Kirvolque/variant_caller) and [Variant Annotator](https://github.com/Bioinformatics-internship-EPAM/variant-annotator), providing guidance and support as the students implemented their projects.
 
 
 ### Let's Connect
