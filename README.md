@@ -9,6 +9,11 @@ Some of the technologies and tools that I use include:
 `Cats`
 `ZIO`
 
+### Current Project
+
+I am currently working on my pet project, [Rule Evaluator](https://github.com/Kirvolque/rule-evaluator), which is a Scala 3 library for evaluating boolean expressions using a custom syntax.
+
+
 ### Let's Connect
 
 [![Telegram][telegram_badge]][telegram_link]
