@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**Kirvolque/Kirvolque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! My name is Kirill Volkov, and I am a Scala and Java backend developer with over 5 years of experience. I am passionate about functional programming and bioinformatics and enjoy exploring the intersection between the two.
 
-Here are some ideas to get you started:
+Technologies and Tools
+Some of the technologies and tools that I use include:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`Scala`
+`Cats`
+`ZIO`
+
+### Let's Connect
+
+[![Telegram][telegram_badge]][telegram_link]
+[![LinkedIn][linkedin_badge]][linkedin_link]
+
+[linkedin_link]: https://www.linkedin.com/in/kirill-volkov-8617a965/
+[linkedin_badge]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
+[telegram_link]: https://t.me/neborodulin
+[telegram_badge]: https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+
+Thank you for stopping by!
