@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there
 
 Welcome to my GitHub profile! My name is Kirill Volkov, and I am a Scala and Java backend developer with over 7 years of experience. I am passionate about functional programming and bioinformatics and enjoy exploring the intersection between the two.
 
