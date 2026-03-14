@@ -19,7 +19,7 @@ I have also contributed to open source projects, including the [HTSJDK](https://
 - [PR #979](https://github.com/samtools/htsjdk/pull/979)
 
 ### Work Experience
-Currently, I am working at [Epam](https://www.epam.com/) as a senior software engineer.
+Currently, I am working at [Epam](https://www.epam.com/) as a lead software engineer.
 
 ### Let's Connect
 
